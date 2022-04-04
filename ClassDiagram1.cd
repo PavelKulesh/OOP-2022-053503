@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab1OOP.Account" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAAAAAQAIAIAAAIAQgAAAgIgAAgABAAIkAAAAY=</HashCode>
+      <FileName>Model\Banking\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Bank" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAIQAAAAACABAAQAAAAAAACAEAAAAAAAAAA=</HashCode>
+      <FileName>Model\Banking\Bank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Company" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIQQAAAAAAABQQAAAiAAACAAQAAAAAAACA=</HashCode>
+      <FileName>Model\Banking\Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Credit" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQADAAASACAAAAAAAAAAAAgAAAAAAAAEAAAACAAAEAQ=</HashCode>
+      <FileName>Model\Banking\Credit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Installment" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQADAAACACAAAAAAAAAAAAgAAAAAAAAEAAAACEAAIAQ=</HashCode>
+      <FileName>Model\Banking\Installment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.SalaryProject" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACACAQAAAAAAAEAAgAAACAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Model\Banking\SalaryProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Transfer" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Banking\Transfer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Database" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gwIABpIAEQoFQAIDACBlAQAACQCiABiCAAACCEBBOEA=</HashCode>
+      <FileName>Model\Database\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.TableSet" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAAQAIEAAAAARAAAAgBAABQAAEAAAEAA=</HashCode>
+      <FileName>Model\Database\TableSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.User" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAwABAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Model\Roles\Abstraction\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Administrator">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Roles\Administrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.AnotherSpecialist">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAQAAAAAAQIAAACAAAAAAAAAAAAACAAAAAAACBAAA=</HashCode>
+      <FileName>Model\Roles\AnotherSpecialist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Client">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAACACIQAAAAAAAQQAAAAAACIACAUAABBADAIEA=</HashCode>
+      <FileName>Model\Roles\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Manager">
+    <Position X="7" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAQAAEACAAAgAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\Roles\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab1OOP.Operator">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAQQAAAAAAACAAAAAAAAAAABAAAAAECAAAA=</HashCode>
+      <FileName>Model\Roles\Operator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
