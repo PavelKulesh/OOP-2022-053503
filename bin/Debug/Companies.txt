@@ -1,1 +1,0 @@
-CompanyId,Type,Name,UNP,BIC,Adress

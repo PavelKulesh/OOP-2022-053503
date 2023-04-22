@@ -1,2 +1,0 @@
-UserID,Login,Password
-"1h3g1","operator","operator"

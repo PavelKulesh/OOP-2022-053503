@@ -1,4 +1,0 @@
-UserID,Login,Password,Name,Surname,Patronymic,PhoneNumber,Email,SNP,PassportID,Company
-"1234","pavel","pavel","Павел","Кулеш","Александрович","293076525","pavel-kul1707@mail.ru","HB3067697","1236521L432GD7","-"
-"4321","dron","123456","Андрей","Леонов","Алексеевич","291111111","dron@mail.ru","HB1234567","1234567O890BS2","-"
-"1111","roman","123456","Роман","Якунин","Александрович","442222222","roman@mail.ru","HB5555555","0987654Q777ZX5","-"
